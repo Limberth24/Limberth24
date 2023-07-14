@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/@tolalimberth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tolalimberth" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/limberth-mamani-tola-91b813268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="limberth mamani tola" height="30" width="40" /></a>
-<a href="[https://fb.com/Limberth](https://www.facebook.com/limberth.mamani.1291)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="limberth" height="30" width="40" /></a>
+<a href="https://www.facebook.com/limberth.mamani.1291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="limberth" height="30" width="40" /></a>
 <a href="https://instagram.com/limbert_rebellion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="limbert_rebellion" height="30" width="40" /></a>
 </p>
 
